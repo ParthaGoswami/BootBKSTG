@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "AppBoot"
+  description: "BackStage Boot"
+  annotations:
+    github.com/project-slug: ParthaGoswami/BootBKSTG
+    backstage.io/techdocs-ref: url:https://github.com/ParthaGoswami/BootBKSTG
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "partha.ext@gmail.com"

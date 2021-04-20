@@ -1,0 +1,8 @@
+site_name: "AppBoot"
+site_description: "BackStage Boot"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
